@@ -1,15 +1,14 @@
 ---
-title:  "Analysis of Customer Retention"
+title:  "Project 3: Analysis of Customer Retention"
 mathjax: true
 layout: post
 categories: media
 ---
 
-### **Project Overview**:
   The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
   As customer retention is a critical factor in sustaining growth and profitability, this project focuses on leveraging data-driven insights 
   to identify trends, patterns, and potential drivers of customer churn. The analysis will be conducted in collaboration with cross-functional teams, 
-  including data engineers, product managers and account managers, and will utilize tools like **SQL**, **Databricks**, and **Tableau** as visualization tool
+  including data engineers, product managers and account managers, and will utilize tools like **SQL**, **Databricks**, and **Tableau** as visualization tool.
 
 
 
