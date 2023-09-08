@@ -5,19 +5,19 @@ layout: post
 categories: media
 ---
 
+### **Project Overview**:
+  The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
+  As customer retention is a critical factor in sustaining growth and profitability, this project focuses on leveraging data-driven insights 
+  to identify trends, patterns, and potential drivers of customer churn. The analysis will be conducted in collaboration with cross-functional teams, 
+  including data engineers, product managers and account managers, and will utilize tools like **SQL**, **Databricks**, and **Tableau** as visualization tool
+
+
+
 
 ### <font style="color : darkgrey">Duration: 6 weeks</font> <br>
 **Stakeholders:** Data Engineers, Product Manager, Account Managers, Data Analyst, other relevant departents. <br>
 ✅ SQL  ✅ Databricks  ✅ Tableau  ✅ JIRA  ✅ Microsoft Teams  ✅ Asana
 
-
-
-
-### **Project Overview**:
-  The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
-  As customer retention is a critical factor in sustaining growth and profitability, this project focuses on leveraging data-driven insights 
-  to identify trends, patterns, and potential drivers of customer churn. The analysis will be conducted in collaboration with cross-functional teams, 
-  including data engineers, product managers and account managers, and will utilize tools like **SQL**, **Databricks**, and **Tableau** as visualization tool.
 
 **1. Data Gathering and Preparation:** 
 Define project scope, objectives, and deliverables. Identify stakeholders. Set up communication channels (meetings, emails, collaboration tools). 
