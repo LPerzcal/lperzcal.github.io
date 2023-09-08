@@ -10,6 +10,9 @@ categories: media
 **Stakeholders:** Data Engineers, Product Manager, Account Managers, Data Analyst, other relevant departents. <br>
 ✅ SQL  ✅ Databricks  ✅ Tableau  ✅ JIRA  ✅ Microsoft Teams  ✅ Asana
 
+
+
+
 ### **Project Overview**:
   The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
   As customer retention is a critical factor in sustaining growth and profitability, this project focuses on leveraging data-driven insights 
