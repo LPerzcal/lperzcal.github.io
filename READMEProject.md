@@ -4,5 +4,5 @@ I invite you to explore these projects to gain a deeper understanding of my capa
 actionable insights to drive growth, or strategic guidance to navigate the data landscape, I am confident that my portfolio will provide you with a glimpse into the depth and breadth of my experience as a Data Analyst.
 
 
-- **Business Performance Dashboard** [https://lperzcal.github.io/project3.portfolio/]
+- **Business Performance Dashboard** [link](https://lperzcal.github.io/project3.portfolio/)]
 
